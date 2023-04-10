@@ -1,0 +1,80 @@
+body {
+	background-color: beige;
+	font-family: Arial, sans-serif;
+	color: #000000;
+}
+
+nav {
+	background-color: #ad7c7c;
+	color: #4186db;
+	padding: 10px;
+}
+
+section {
+	margin-top: 50px;
+}
+
+h1 {
+	font-size: 32px;
+}
+
+.image-container {
+	text-align: left;
+}
+
+.image-container img {
+	max-width: 100%;
+	height: auto;
+}
+
+.video-container {
+	position: relative;
+	padding-bottom: 56.25%;
+	padding-top: 30px;
+	height: 0;
+	overflow: hidden;
+}
+
+.video-container iframe {
+	position: absolute;
+	top: 0;
+	left: 0;
+	width: 50%;
+	height: 50%;
+}
+
+.tableau-container {
+	margin-top: 50px;
+	text-align: center;
+}
+
+footer {
+	text-align: center;
+	padding: 10px;
+	background-color: #333;
+	color: #fff;
+}
+
+.my-div {
+    background-color: yellow;
+    color: red;
+    font-family: Arial, sans-serif;
+    background-size: contain;
+    background-position: center;
+  }
+  
+  .my-other-div {
+    background-color: green;
+    color: white;
+    font-family: Verdana, sans-serif;
+  }
+  
+  .my-third-div {
+    background-color: blue;
+    color: white;
+    font-family: Impact, sans-serif;
+  }
+  
+ html {
+	scroll-behavior: smooth
+ }
