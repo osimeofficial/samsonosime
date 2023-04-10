@@ -5,7 +5,7 @@ body {
 }
 
 nav {
-	background-color: #ad7c7c;
+	background-color: #aca1a1;
 	color: #4186db;
 	padding: 10px;
 }
@@ -57,7 +57,7 @@ footer {
 
 .my-div {
     background-color: yellow;
-    color: red;
+    color: rgb(255, 255, 255);
     font-family: Arial, sans-serif;
     background-size: contain;
     background-position: center;
